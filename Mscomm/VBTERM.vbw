@@ -1,0 +1,4 @@
+frmTerminal = 44, 44, 606, 356, C, 44, 44, 288, 356, C
+Module1 = 0, 0, 0, 0, C
+frmCancelSend = 0, 0, 0, 0, C, 66, 66, 310, 378, C
+frmProperties = 0, 0, 0, 0, C, 22, 22, 266, 334, C
